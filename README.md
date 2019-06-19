@@ -12,7 +12,7 @@ Atechcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - subsidy halves in 840k blocks (~4 years)
  - ~10 million total coins
 
-The rest is the same as Bitcoin.
+The rest is almost the same as Bitcoin.
  - 20 coins per block
  - ~10.000 blocks to retarget difficulty
 
